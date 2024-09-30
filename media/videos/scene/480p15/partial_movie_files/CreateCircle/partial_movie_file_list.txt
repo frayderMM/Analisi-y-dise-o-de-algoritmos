@@ -1,0 +1,2 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/mezam/OneDrive/Documentos/ESAN/2024-2/ANÁLISIS Y DISEÑO DE ALGORITMOS/Taller 002/media/videos/scene/480p15/partial_movie_files/CreateCircle/1185818338_41213021_223132457.mp4'
